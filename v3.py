@@ -31,8 +31,8 @@ class Word_bank_location:
  
     def regex_from_HTML(self):
         '''Webscrape into a temp local website to get data'''
-        url = "file:///Users/tv5546/Desktop/version4/fruit.html"
-        #url ='file:///Users/tv5546/Desktop/version4/Faculty%20&%20Staff%20Resources%20|%20The%20University%20of%20Texas%20at%20Austin.html'
+        url = "[LOCATION OF FILE ON COMP]"
+        #url ='[LOCATION OF FILE ON COMP]'
         response = urllib.request.urlopen(url)
         html = response.read()
         htmlStr = html.decode()
