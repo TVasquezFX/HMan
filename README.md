@@ -1,6 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- Project hosted somewhere?, include the link here. -->
+# Hangman Game V4
+> This is a hangman gave that uses python and no inheritance
+> Live demo [_here_](https://www.example.com). <!-- Project hosted 
+somewhere?, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -21,7 +22,8 @@
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+<!-- You don't have to answer all the questions - just the ones relevant 
+to your project. -->
 
 
 ## Technologies Used
@@ -43,9 +45,11 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+What are the project requirements/dependencies? Where are they listed? A 
+requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Proceed to describe how to install / setup one's local environment / get 
+started with the project.
 
 
 ## Usage
@@ -56,15 +60,18 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _no longer being worked on_. I am no longer working on it 
+because I feel as I have done more than I can without disrupting other 
+ongoing projects
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Include areas you believe need improvement / could be improved. Also add 
+TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Use a GUI
+- Remove non inheritance
 
 To do:
 - Feature to be added 1
@@ -73,17 +80,20 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by assignment
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
 
 ## Contact
-Created by [@example](contact info) - feel free to contact me!
+Created by [@TVasquezFX](contact info) - feel free to contact me!
 
 
 <!-- Optional -->
 <!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+<!-- This project is open source and available under the [... License](). 
+-->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+<!-- You don't have to include all sections - just the one's relevant to 
+your project -->
+
